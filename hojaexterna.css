@@ -1,0 +1,30 @@
+h1{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.titulo{
+    color: rgb(242, 6, 6);
+
+    
+}
+.clase1{
+color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.clase2{
+  color: aqua;  
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+#contactos {
+    color: red;
+  }
+  #contactoss{
+    background-color: yellow;
+  }
